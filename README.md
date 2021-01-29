@@ -15,7 +15,6 @@
 
   <h2 align="center">👨‍💻 Github Statistics </h2>
   <p align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api?username=lokeshvenkatesan&layout=compact&hide=html&theme=jolly" alt="Lokesh" />&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 
