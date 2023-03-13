@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lokesh </h1>
 <h3 align="center">Data Scientist || React Enthusiast || NLP fanatic || Pythoneer 🐍 || FOSS Guy</h3>
 
-<h1 align="center">Hi 👋, I'm Lokesh</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [GA-FNNN- Signature based intelligent IDS](https://github.com/lokeshvenkatesan/GA-FFNN-An-Intelligent-Classification-Approach-for-Signature-based-IDS)
